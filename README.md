@@ -65,7 +65,6 @@ Use this section to recap over some of your major learnings while working throug
 ### Useful resources
 
 - [Example resource 1](https://stackoverflow.com/questions/39056537/why-don-t-svg-images-scale-using-the-css-width-property) - This helped me for to understand that when you set a width in the svg declaration code you will not be able to change it later in the css code reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 
 ## Author
